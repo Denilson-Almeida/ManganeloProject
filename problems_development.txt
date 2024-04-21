@@ -1,0 +1,5 @@
+ImportError: attempted relative import with no known parent package
+
+Demorei muito pra conseguir entender o que fazer, pesquisei por horas e um vídeo (BR) me ajudou a entender o que fazer.
+Meu inglês me atrapalhou pra entender na hora de ler o stackoverflow (muito texto, acabei pulando automaticamente).
+- PESQUISAR SOBRE ESSE PROBLEMA/ENTENDER MELHOR ELE.
